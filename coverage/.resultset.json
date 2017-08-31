@@ -185,6 +185,27 @@
       ],
       "/Users/jpkeane/Development/HappyHouse/happyhouse/app/helpers/application_helper.rb": [
         1,
+        null,
+        1,
+        2,
+        2,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        2,
+        1,
+        null,
+        null,
+        null,
+        1,
+        2,
+        1,
+        null,
         null
       ],
       "/Users/jpkeane/Development/HappyHouse/happyhouse/app/controllers/front_pages_controller.rb": [
@@ -198,6 +219,6 @@
         null
       ]
     },
-    "timestamp": 1504209092
+    "timestamp": 1504210652
   }
 }
